@@ -14,4 +14,4 @@ jobs:
     - name: build test container
       run: docker build -t node-dbus-next-test .
     - name: run test container
-      run: docker run -it node-dbus-next-test
+      run: docker run -t node-dbus-next-test
