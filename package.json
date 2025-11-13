@@ -1,5 +1,6 @@
 {
-  "name": "dbus-next",
+  "name": "@holusion/dbus-next",
+  "private": false,
   "version": "0.10.2",
   "keywords": [
     "dbus",
@@ -9,7 +10,7 @@
     "gnome",
     "kde"
   ],
-  "description": "The next great DBus library for Node",
+  "description": "Updated DBus library for Node",
   "files": [
     "lib/*",
     "index.js",
@@ -25,14 +26,14 @@
   "types": "types.d.ts",
   "maintainers": [
     {
-      "name": "Tony Crisci",
-      "email": "tony@dubstepdish.com"
+      "name": "Holusion SAS",
+      "email": "contact@holusion.com"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/dbusjs/node-dbus-next.git"
+    "url": "http://github.com/Holusion/node-dbus-next.git"
   },
   "dependencies": {
     "event-stream": "3.3.4",
