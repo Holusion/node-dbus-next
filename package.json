@@ -42,9 +42,6 @@
     "safe-buffer": "^5.1.1",
     "xml2js": "^0.4.17"
   },
-  "optionalDependencies": {
-    "usocket": "^1.0.1"
-  },
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
@@ -81,6 +78,6 @@
     ]
   },
   "engine": {
-    "node": ">=6.3.0"
+    "node": ">=20.8.0"
   }
 }
